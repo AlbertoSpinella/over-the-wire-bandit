@@ -104,7 +104,7 @@ cat inhere/maybehere07/.file2
 ```
 **Password**: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 
-bandit 6 -> 7
+## bandit 6 -> 7
 Run the commands:
 ```
 ssh bandit.labs.overthewire.org -p 2220 -l bandit6
