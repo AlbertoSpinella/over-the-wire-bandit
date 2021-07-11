@@ -1,41 +1,41 @@
-﻿Over the Wire's Bandit Walkthrough by AlbertoSpinella.
+﻿Over the Wire's **Bandit** Walkthrough by AlbertoSpinella.
 
 # Index
-1. bandit 0
-2. bandit 0 -> 1
-3. bandit 1 -> 2
-4. bandit 2 -> 3
-5. bandit 3 -> 4
-6. bandit 4 -> 5
-7. bandit 5 -> 6
-8. bandit 6 -> 7
-9. bandit 7 -> 8
-10. bandit 8 -> 9
-11. bandit 9 -> 10
-12. bandit 10 -> 11
-13. bandit 11 -> 12
-14. bandit 12 -> 13
-15. bandit 13 -> 14
-16. bandit 14 -> 15
-17. bandit 15 -> 16
-18. bandit 16 -> 17
-19. bandit 17 -> 18
-20. bandit 18 -> 19
-21. bandit 19 -> 20
-22. bandit 20 -> 21
-23. bandit 21 -> 22
-24. bandit 22 -> 23
-25. bandit 23 -> 24
-26. bandit 24 -> 25
-27. bandit 25 -> 26
-28. bandit 26 -> 27
-29. bandit 27 -> 28
-30. bandit 28 -> 29
-31. bandit 29 -> 30
-31. bandit 30 -> 31
-31. bandit 31 -> 32
-31. bandit 32 -> 33
-31. bandit 33 -> 34
+1. [bandit 0](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-0)
+2. [bandit 0 -> 1](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-0---1)
+3. [bandit 1 -> 2](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-1--2)
+4. [bandit 2 -> 3](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-2---3)
+5. [bandit 3 -> 4](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-3---4)
+6. [bandit 4 -> 5](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-4---5)
+7. [bandit 5 -> 6](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-5---6)
+8. [bandit 6 -> 7](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-6---7)
+9. [bandit 7 -> 8](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-7---8)
+10. [bandit 8 -> 9](https://github.com/AlbertoSpinella/over-the-wire-andit#bandit-8---9)
+11. [bandit 9 -> 10](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-9---10)
+12. [bandit 10 -> 11](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-10---11)
+13. [bandit 11 -> 12](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-11---12)
+14. [bandit 12 -> 13](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-12---13)
+15. [bandit 13 -> 14](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-13---14)
+16. [bandit 14 -> 15](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-14---15)
+17. [bandit 15 -> 16](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-15---16)
+18. [bandit 16 -> 17](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-16---17)
+19. [bandit 17 -> 18](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-17---18)
+20. [bandit 18 -> 19](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-18---19)
+21. [bandit 19 -> 20](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-19---20)
+22. [bandit 20 -> 21](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-20---21)
+23. [bandit 21 -> 22](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-21---22)
+24. [bandit 22 -> 23](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-22---23)
+25. [bandit 23 -> 24](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-23---24)
+26. [bandit 24 -> 25](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-24---25)
+27. [bandit 25 -> 26](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-25---26)
+28. [bandit 26 -> 27](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-26---27)
+29. [bandit 27 -> 28](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-27---28)
+30. [bandit 28 -> 29](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-28---29)
+31. [bandit 29 -> 30](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-29---30)
+31. [bandit 30 -> 31](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-30---31)
+31. [bandit 31 -> 32](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-31---32)
+31. [bandit 32 -> 33](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-32---33)
+31. [bandit 33 -> 34](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-33---34)
 
  
 ## bandit 0
