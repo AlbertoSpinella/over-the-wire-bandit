@@ -10,7 +10,7 @@
 7. [bandit 5 -> 6](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-5---6)
 8. [bandit 6 -> 7](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-6---7)
 9. [bandit 7 -> 8](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-7---8)
-10. [bandit 8 -> 9](https://github.com/AlbertoSpinella/over-the-wire-andit#bandit-8---9)
+10. [bandit 8 -> 9](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-8---9)
 11. [bandit 9 -> 10](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-9---10)
 12. [bandit 10 -> 11](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-10---11)
 13. [bandit 11 -> 12](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-11---12)
