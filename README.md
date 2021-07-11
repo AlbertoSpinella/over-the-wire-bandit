@@ -3,7 +3,7 @@
 # Index
 1. [bandit 0](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-0)
 2. [bandit 0 -> 1](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-0---1)
-3. [bandit 1 -> 2](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-1--2)
+3. [bandit 1 -> 2](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-1---2)
 4. [bandit 2 -> 3](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-2---3)
 5. [bandit 3 -> 4](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-3---4)
 6. [bandit 4 -> 5](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-4---5)
