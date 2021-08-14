@@ -1,5 +1,7 @@
 ﻿Over the Wire's **Bandit** Walkthrough by AlbertoSpinella.
 
+Don't be sly! Try to solve the challenges on your own before comparing with my solutions.
+
 # Index
 1. [bandit 0](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-0)
 2. [bandit 0 -> 1](https://github.com/AlbertoSpinella/over-the-wire-bandit#bandit-0---1)
